@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "myndfullness-332918",
+  "private_key_id": "d33fba19ed4aef47fb5aa2bb066272a7a8a17351",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnETjEeHV6Y4WD\neAquig7JYlU6cqwgQqKr2DbspfCeN8l+qmmpe7pGGyHqZCc6lcMka8p3TFC/W/+m\n7RHmJJzZdjy3Dtv5f5PTTpwFYxn+2MDgM/q3QGHiseUh731lmy+7gMdiPMlamf/J\nO8qCeEZsrD9l2bx3YqRC53vFtGroNxTitXQrl5XOUlqmHqoL0YSb+vERGNZ/eQE7\nv/Yf20y6A8FoWKRjzv2OARWd8x2HhLOF0xRoA5g7G7dj53YNaAwNZrKNP1B+5Rld\nFcJa6UYE+TJRki6q5UiLUuPKC5rcaUdifPzsB9TqogoC3L1NCQOqJLsQj2d/tTZw\nAc2Z/BbfAgMBAAECggEAbBHSbpV2QHkme0AcItjgJJEQkocKeQYhZeT4f0L3IFCw\nNUVHqOR80Qgkmycfb9eWjsS5S4WOaImDLtPHIM/z6gNSTz2sZWslPNmRwDVC9b3z\nq4i0FJwQjAGuzGnhyLFFqFkJJ6mNdQn8p2YHB3FwYqhG+IBXFLE2aTIx4dxJefRR\nbIoGf+TeYqZkXLsUOdA1XBe5eAJg5QaXJjjKWbZbOObEFgI91Dslgz3FJP/rUfds\nCYePLNi56BcdnrcMsfvxDg9o+LhaP2EKv+3xd7WigTOz7cudtC+NZ8I04DaTnRx+\nvy2k4o2BWzb46eO8kS2WFGj01m2jTuUHuhWrD2NaBQKBgQD8vukQiGxTd4NYg2nZ\nTo3TsHZA3h1B8te2iH1MzFqxkKsMplKcLEyxh2fIpbtEnOPBUbBmvd+v1kDzn+9r\ndol7H21fApjQnJjLR1SPvFNISMfD5tRr4YNHeOkyvPx5itYA1anRgBUjN930SNXG\nHVwOFbH/XF7fzxHuvtHcM9R4jQKBgQDqCtsPIPed3SXEs6R5oz2CWvZB9sIPp1+F\n2bFC+RHgXAfL7qqM4Bfqg3EHSojVZancnlE3y1LLJq/DTaqMaXAS1w+FehPQfJ1g\nWulUahWrfqmZIg/pJhqnFMeao6MNmAxWoExinSrB5SRoK4Q6hCiXViAlofhQsj4k\nGWy8U3jgGwKBgD5DhcUF5rHVQm0+yoe3O2dIFIm8bja97XhRPZT6zujpe8n8+2Lv\n4uDlO6MJeQ3ZHJ6WUj+tTPrTbGLYJrIxnILRZi8+w4i420dQxjs2qMmo7FWNew0s\nnBuyZLiUKBqFIl1IRbKPvCVV8P7qJofM2c26eIQxLEo0h/Vp2udFeXVNAoGAI23r\nRXoHIhW1Pva24lcM26vrdYbmT7pVooyW4f2UcDNeVsfVd6gA1tZ5CNKGrk9KjIRG\n5TxZVzmPB/C87a6UcbWuutUFJN2IcWqxwb6hcymkgPMAF5pWFI73vHgjGc63p3Fy\nvsbuDxYiEcbsqHMTNf2qtiez0Ht7HrnelQ/Jz5sCgYEAwTU+2bd5nMWYJCpQe3ov\nBPHr5EOdKwClMSMIW3qFVxDwItb0fTv7X/VhVwqlNxmc7J9BqsJHQpBryhlDNXB1\nDpkmxLLsIoEaWP99og+y4leQGd3UKJK4X46NIbNPAS3c2/0jGv+2L7s5Hx0ZY83U\neMo5FBj/yj4RCH0LJppxSSM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myndfullness-backend@myndfullness-332918.iam.gserviceaccount.com",
+  "client_id": "116704927087195892234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myndfullness-backend%40myndfullness-332918.iam.gserviceaccount.com"
+}
